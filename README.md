@@ -1,2 +1,2 @@
-# NSDate-Extensions
+# NSDateExtensions
 Extended addons for NSDate object!!!

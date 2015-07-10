@@ -18,6 +18,10 @@
 #define ONE_YEAR	31556926
 
 @interface NSDate (Extensions)
+//TODO: We will also have to add a git ignore, its adding DS.store and other files
+
+//TODO: Lets create pragmas to classify project names
+
 
 #pragma mark - PUBLIC METHODS
 //add year,months,days,minutes remaining from date in future

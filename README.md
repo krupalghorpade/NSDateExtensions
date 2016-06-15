@@ -1,5 +1,5 @@
 # NSDateExtensions
-Extended addons for NSDate object!!!
+Extended add-ons for NSDate object!!!
 
 
 --------------------------------------------------------------------------------

@@ -381,6 +381,4 @@ const static  unsigned componentUnits = (NSYearCalendarUnit| NSMonthCalendarUnit
                                             forDate:[to dateByAddingTimeInterval:offset]];
     return endMonth - startMonth + 1;
 }
-
-
 @end
